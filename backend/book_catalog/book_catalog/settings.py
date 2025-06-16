@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-    'crossheaders',
+    'corsheaders',
     'books',  # Custom app for book catalog
 ]
 
